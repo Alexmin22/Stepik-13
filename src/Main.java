@@ -13,5 +13,3 @@ public class Main {
         System.out.printf("%f\n", d);
     }
     }
-
-//}
